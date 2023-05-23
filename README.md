@@ -7,7 +7,10 @@ Some tattoos are not syncing to other players, even though they are loaded and s
 👉 Everything we know so far available in [details.md](details.md) file.\
 👉 Before submiting any suggestions, please read the details file, thanks!
 
-## How to use
+![image](https://github.com/horejsiladislav/fivem_tattoo_sync_bug/assets/41058596/424d41d6-a3cc-4078-ade7-c5d90a382b9f)
+
+
+## How to reproduce
 
 1. ❗ Use server build 2802 (`set sv_enforceGameBuild 2802` in server.cfg) ❗
 2. Star the resource **only** as a folder to keep the start order for addon packs! - `ensure [tattoos_problem]` in server.cfg
